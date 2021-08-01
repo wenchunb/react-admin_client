@@ -1,0 +1,35 @@
+const weatherImg = [
+    {
+        weather:'晴',
+        weatherImg:'http://api.map.baidu.com/images/weather/day/qing.png'
+    },
+    {
+        weather:'多云',
+        weatherImg:'http://api.map.baidu.com/images/weather/day/duoyun.png'
+    },
+    {
+        weather:'阴',
+        weatherImg:'http://api.map.baidu.com/images/weather/day/yin.png'
+    },
+    {
+        weather:'小雨',
+        weatherImg:'http://api.map.baidu.com/images/weather/day/xiaoyu.png'
+    },
+    {
+        weather:'阵雨',
+        weatherImg:'http://api.map.baidu.com/images/weather/day/zhenyu.png'
+    },
+    {
+        weather:'大雨',
+        weatherImg:'http://api.map.baidu.com/images/weather/day/dayu.png'
+    },
+    {
+        weather:'中雨',
+        weatherImg:'http://api.map.baidu.com/images/weather/day/zhongyu.png'
+    },
+    {
+        weather:'雷阵雨',
+        weatherImg:'http://api.map.baidu.com/images/weather/day/leizhenyu.png'
+    }
+]
+export default weatherImg

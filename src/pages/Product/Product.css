@@ -1,0 +1,14 @@
+.ProductDetailList .ant-list-item {
+  justify-content: start !important;
+}
+.ProductDetailList .left {
+  font-size: 20px;
+  font-weight: bold;
+  margin-right: 10px;
+  color: #7e7e7e;
+}
+.ProductDetailList img {
+  border: 1px solid #000;
+  width: 150px;
+  margin-right: 10px;
+}
